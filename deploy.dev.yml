@@ -14,7 +14,7 @@ composer:
     autoload: ''
 assets:
     mode: development
-
+d
 regions:
     EU:
         services:
